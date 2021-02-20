@@ -133,3 +133,4 @@ predictions.txt
 *.mkv
 
 new_venv
+.ipynb_checkpoints
