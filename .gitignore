@@ -134,6 +134,5 @@ predictions.txt
 
 new_venv
 .DS_Store
-*-checkpoint.ipynb
 Slides/
 Resources/
